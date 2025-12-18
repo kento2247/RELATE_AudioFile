@@ -1,0 +1,2 @@
+/Users/kanamoriyuusuke/research_programming/TTA_eval_ex/wave/tango2/train/92.wav/Users/kanamoriyuusuke/research_programming/TTA_eval_ex/Sequence/temporal/237.seq
+/Users/kanamoriyuusuke/research_programming/TTA_eval_ex/wave/tango2/train/92.wav/Users/kanamoriyuusuke/research_programming/TTA_eval_ex/Sequence/temporal/209.seq
